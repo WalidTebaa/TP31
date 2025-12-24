@@ -1,7 +1,7 @@
-package oussama.microservices.messagingconsumer.service;
+package walid.microservices.messagingconsumer.service;
 
-import oussama.microservices.messagingconsumer.domain.User;
-import oussama.microservices.messagingconsumer.repository.UserRepository;
+import walid.microservices.messagingconsumer.domain.User;
+import walid.microservices.messagingconsumer.repository.UserRepository;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.amqp.rabbit.annotation.RabbitListener;

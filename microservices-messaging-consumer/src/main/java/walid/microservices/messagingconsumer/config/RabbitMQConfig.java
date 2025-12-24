@@ -1,4 +1,4 @@
-package oussama.microservices.messagingconsumer.config;
+package walid.microservices.messagingconsumer.config;
 
 import org.springframework.amqp.core.*;
 import org.springframework.amqp.rabbit.connection.CachingConnectionFactory;

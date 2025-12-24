@@ -1,6 +1,6 @@
-package oussama.microservices.messagingconsumer.repository;
+package walid.microservices.messagingconsumer.repository;
 
-import oussama.microservices.messagingconsumer.domain.User;
+import walid.microservices.messagingconsumer.domain.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

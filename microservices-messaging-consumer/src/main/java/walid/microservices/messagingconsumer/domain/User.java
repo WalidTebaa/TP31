@@ -1,4 +1,4 @@
-package oussama.microservices.messagingconsumer.domain;
+package walid.microservices.messagingconsumer.domain;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
